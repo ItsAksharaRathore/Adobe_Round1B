@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "input_documents": [
+      "microsoft_annual_report_2024.pdf",
+      "alphabet_google_annual_report_2023.pdf",
+      "amazon_annual_report_2023.pdf"
+    ],
+    "persona": "Investment Analyst at Goldman Sachs with 5 years experience in technology sector analysis and equity research",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies across major tech companies for Q1 2025 investment recommendations",
+    "processing_timestamp": "2025-01-28T15:45:00.000Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "microsoft_annual_report_2024.pdf",
+      "page_number": 28,
+      "section_title": "Revenue Analysis by Business Segment - Fiscal Year 2024",
+      "importance_rank": 1
+    },
+    {
+      "document": "alphabet_google_annual_report_2023.pdf",
+      "page_number": 35,
+      "section_title": "Google Services Revenue Growth and Market Share Analysis",
+      "importance_rank": 2
+    },
+    {
+      "document": "amazon_annual_report_2023.pdf",
+      "page_number": 42,
+      "section_title": "AWS Revenue Performance and Cloud Market Position",
+      "importance_rank": 3
+    },
+    {
+      "document": "microsoft_annual_report_2024.pdf",
+      "page_number": 67,
+      "section_title": "Research and Development Investments in AI and Cloud Computing",
+      "importance_rank": 4
+    },
+    {
+      "document": "alphabet_google_annual_report_2023.pdf",
+      "page_number": 58,
+      "section_title": "Capital Expenditures and R&D Spending on AI Infrastructure",
+      "importance_rank": 5
+    },
+    {
+      "document": "amazon_annual_report_2023.pdf",
+      "page_number": 23,
+      "section_title": "North America and International Revenue Trends",
+      "importance_rank": 6
+    },
+    {
+      "document": "microsoft_annual_report_2024.pdf",
+      "page_number": 15,
+      "section_title": "Competitive Landscape and Strategic Market Positioning",
+      "importance_rank": 7
+    },
+    {
+      "document": "alphabet_google_annual_report_2023.pdf",
+      "page_number": 72,
+      "section_title": "YouTube and Google Cloud Revenue Diversification Strategy",
+      "importance_rank": 8
+    },
+    {
+      "document": "amazon_annual_report_2023.pdf",
+      "page_number": 89,
+      "section_title": "Prime Membership Growth and Subscription Revenue Impact",
+      "importance_rank": 9
+    },
+    {
+      "document": "microsoft_annual_report_2024.pdf",
+      "page_number": 95,
+      "section_title": "Geographic Revenue Distribution and International Expansion",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "microsoft_annual_report_2024.pdf",
+      "page_number": 28,
+      "refined_text": "Microsoft reported record revenue of $245.1 billion for fiscal 2024, representing 15.7% year-over-year growth. Azure and other cloud services revenue increased 31% year-over-year, driving the Productivity and Business Processes segment to $69.3 billion (+12.5%). The Intelligent Cloud segment reached $105.4 billion (+19.1%), while More Personal Computing generated $59.7 billion (+17.0%). Operating income expanded to $109.4 billion with operating margin improving to 44.6%.",
+      "relevance_score": 97.3
+    },
+    {
+      "document": "alphabet_google_annual_report_2023.pdf",
+      "page_number": 35,
+      "refined_text": "Alphabet generated $307.4 billion in total revenue for 2023, with Google Services contributing $237.9 billion (+8.4% YoY). Search revenue remained dominant at $175.0 billion, though growth decelerated to 7.6% from previous year's 11.2%. YouTube advertising revenue reached $31.5 billion (+9.2%), while Google Cloud achieved $33.1 billion (+25.7%). The company maintained strong market share in search (>90%) despite increased competition from AI-powered alternatives.",
+      "relevance_score": 96.8
+    },
+    {
+      "document": "amazon_annual_report_2023.pdf",
+      "page_number": 42,
+      "refined_text": "Amazon Web Services delivered $90.8 billion in revenue for 2023 (+13.3% YoY), maintaining its position as the leading cloud infrastructure provider with approximately 32% market share. AWS operating income reached $24.6 billion with a 27.1% operating margin, significantly outperforming the company's retail operations. Despite economic headwinds, AWS showed resilience with enterprise customers increasingly adopting cloud-native solutions and AI/ML services contributing 15% of segment revenue.",
+      "relevance_score": 95.1
+    },
+    {
+      "document": "microsoft_annual_report_2024.pdf",
+      "page_number": 67,
+      "refined_text": "Microsoft allocated $29.5 billion to research and development in fiscal 2024, representing 12.0% of total revenue and a 23.8% increase from the prior year. The majority of R&D spending focused on AI integration across product portfolios, with significant investments in large language models, Copilot development, and Azure AI infrastructure. The company partnered with OpenAI through a multi-year, multi-billion dollar agreement, positioning Microsoft as a leader in enterprise AI applications and cloud-based AI services.",
+      "relevance_score": 94.7
+    },
+    {
+      "document": "alphabet_google_annual_report_2023.pdf",
+      "page_number": 58,
+      "refined_text": "Alphabet invested $39.5 billion in research and development during 2023, equivalent to 12.9% of total revenue and the highest absolute R&D spending among technology companies. Capital expenditures totaled $32.3 billion, primarily for data center construction and AI computing infrastructure. The company accelerated investments in quantum computing, autonomous vehicles through Waymo, and generative AI capabilities including Bard and Gemini models. These strategic investments aim to maintain technological leadership despite intensifying competition.",
+      "relevance_score": 93.9
+    },
+    {
+      "document": "amazon_annual_report_2023.pdf",
+      "page_number": 23,
+      "refined_text": "Amazon’s North America segment generated $352.8 billion in revenue (+12.0% YoY), while International segment reached $131.2 billion (+11.2% YoY constant currency). North America operating income improved significantly to $14.9 billion compared to $7.3 billion in 2022, benefiting from operational efficiency initiatives and Prime membership growth. International operations reduced operating losses to $2.5 billion from $7.7 billion in 2022, indicating progress toward profitability in key markets including Europe and emerging economies.",
+      "relevance_score": 92.4
+    }
+  ]
+}

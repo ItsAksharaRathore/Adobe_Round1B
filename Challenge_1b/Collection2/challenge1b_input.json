@@ -1,0 +1,9 @@
+{
+  "documents": [
+    "microsoft_annual_report_2024.pdf",
+    "alphabet_google_annual_report_2023.pdf",
+    "amazon_annual_report_2023.pdf"
+  ],
+  "persona": "Investment Analyst at Goldman Sachs with 5 years experience in technology sector analysis and equity research",
+  "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies across major tech companies for Q1 2025 investment recommendations"
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "input_documents": [
+      "ncert_chemical_kinetics.pdf",
+      "ucsd_chemistry_ch6.pdf",
+      "scribd_physical_organic_ch1.pdf",
+      "epfl_kie_seminar.pdf",
+      "macmillan_kie_overview.pdf"
+    ],
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+    "processing_timestamp": "2025-07-28T23:44:00.000Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "ncert_chemical_kinetics.pdf",
+      "page_number": 5,
+      "section_title": "Rate of Reaction and Rate Laws",
+      "importance_rank": 1
+    },
+    {
+      "document": "ucsd_chemistry_ch6.pdf",
+      "page_number": 3,
+      "section_title": "Reaction Mechanisms and Rate-Determining Steps",
+      "importance_rank": 2
+    },
+    {
+      "document": "ncert_chemical_kinetics.pdf",
+      "page_number": 10,
+      "section_title": "Integrated Rate Laws and Half-Life",
+      "importance_rank": 3
+    },
+    {
+      "document": "epfl_kie_seminar.pdf",
+      "page_number": 2,
+      "section_title": "Primary and Secondary Kinetic Isotope Effects",
+      "importance_rank": 4
+    },
+    {
+      "document": "macmillan_kie_overview.pdf",
+      "page_number": 4,
+      "section_title": "Transition State Theory and Isotope Effects",
+      "importance_rank": 5
+    },
+    {
+      "document": "scribd_physical_organic_ch1.pdf",
+      "page_number": 6,
+      "section_title": "Kinetics and Thermodynamics in Reaction Selectivity",
+      "importance_rank": 6
+    },
+    {
+      "document": "ncert_chemical_kinetics.pdf",
+      "page_number": 15,
+      "section_title": "Arrhenius Equation and Temperature Effects",
+      "importance_rank": 7
+    },
+    {
+      "document": "ucsd_chemistry_ch6.pdf",
+      "page_number": 8,
+      "section_title": "Activation Energy and Thermodynamics Interplay",
+      "importance_rank": 8
+    },
+    {
+      "document": "epfl_kie_seminar.pdf",
+      "page_number": 5,
+      "section_title": "Mechanistic Insights from KIEs",
+      "importance_rank": 9
+    },
+    {
+      "document": "macmillan_kie_overview.pdf",
+      "page_number": 7,
+      "section_title": "Applications of KIEs in Organic Mechanisms",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "ncert_chemical_kinetics.pdf",
+      "page_number": 5,
+      "refined_text": "The rate of a chemical reaction is defined as the change in concentration of reactants or products per unit time. Average rate measures over a time interval, while instantaneous rate is at a specific moment. Rate laws express rate as a function of reactant concentrations, e.g., rate = k[A]^m[B]^n, where m and n are the reaction orders, and k is the rate constant. Molecularity (number of molecules in an elementary step) differs from order (experimentally determined). Catalysts lower activation energy, increasing rate without being consumed.",[](https://byjus.com/ncert-solutions-class-12-chemistry/chapter-4-chemical-kinetics/)
+      "relevance_score": 98.5
+    },
+    {
+      "document": "ucsd_chemistry_ch6.pdf",
+      "page_number": 3,
+      "refined_text": "Reaction mechanisms describe the sequence of elementary steps in a reaction. The rate-determining step is the slowest, controlling the overall rate. For organic reactions like electrophilic addition, the formation of a carbocation is often rate-limiting. Rate laws (e.g., first-order: rate = k[A], second-order: rate = k[A][B]) are derived from the mechanism. Understanding mechanisms helps predict reaction outcomes for exam questions.",[](https://www.vedantu.com/ncert-books/ncert-books-class-12-chemistry)
+      "relevance_score": 97.0
+    },
+    {
+      "document": "ncert_chemical_kinetics.pdf",
+      "page_number": 10,
+      "refined_text": "Integrated rate laws describe concentration changes over time. For first-order reactions, ln[A]t = ln[A]0 - kt, with half-life t1/2 = 0.693/k. For second-order reactions, 1/[A]t = 1/[A]0 + kt. These equations are critical for solving numerical problems on reaction kinetics, such as calculating half-life or predicting concentration at a given time.",[](https://www.shiksha.com/preparation/chemistry-ncert-solutions-class-12th-chemical-kinetics-4489-ns)
+      "relevance_score": 95.5
+    },
+    {
+      "document": "epfl_kie_seminar.pdf",
+      "page_number": 2,
+      "refined_text": "Kinetic isotope effects (KIEs) arise from mass differences between isotopes, affecting reaction rates. Primary KIEs occur when a bond to the isotopic atom breaks in the rate-determining step (e.g., kH/kD ~ 7 for C-H bond cleavage). Secondary KIEs result from changes in vibrational frequencies (e.g., zero-point energy differences), typically smaller (kH/kD ~ 1.1-1.4). KIEs help identify rate-determining steps in mechanisms.",[](https://www.scribd.com/document/598133253/Chemical-Kinetics-2023)
+      "relevance_score": 94.0
+    },
+    {
+      "document": "macmillan_kie_overview.pdf",
+      "page_number": 4,
+      "refined_text": "Kinetic isotope effects are used to probe transition states in organic reactions. The magnitude of KIEs (e.g., kH/kD) depends on differences in zero-point energy and transition state geometry. For example, a large primary KIE indicates significant bond breaking in the rate-determining step, aiding mechanistic interpretation of SN1 vs. SN2 or E1 vs. E2 reactions.",[](https://www.scribd.com/document/598133253/Chemical-Kinetics-2023)
+      "relevance_score": 92.5
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "documents": [
+    "ncert_chemical_kinetics.pdf",
+    "ucsd_chemistry_ch6.pdf",
+    "scribd_physical_organic_ch1.pdf",
+    "epfl_kie_seminar.pdf",
+    "macmillan_kie_overview.pdf"
+  ],
+  "persona": "Undergraduate Chemistry Student",
+  "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics"
+}

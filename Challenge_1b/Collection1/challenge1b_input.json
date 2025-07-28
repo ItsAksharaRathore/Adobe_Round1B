@@ -1,0 +1,10 @@
+{
+  "documents": [
+    "gnn_drug_discovery_nature_2024.pdf",
+    "molecular_property_prediction_jchem_2021.pdf", 
+    "synergistic_drug_combinations_ai_review_2024.pdf",
+    "explainable_gnn_drug_response_scientific_reports_2025.pdf"
+  ],
+  "persona": "PhD Researcher in Computational Biology with 3 years experience in machine learning applications for drug discovery",
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks for Graph Neural Networks in drug discovery applications"
+}
